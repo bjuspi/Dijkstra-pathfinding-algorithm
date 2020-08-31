@@ -1,1 +1,1 @@
-# -Dijkstra-pathfinding-algorithm
+# Dijkstra's Algorithm
